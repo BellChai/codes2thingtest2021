@@ -1,4 +1,4 @@
-# Tip:**点击文字将跳转到[期末归档内容](https://codes2things.coding.net/p/file/d/file/git, '期末归档内容')**
+# Tip:**点击文字将跳转到[期末归档内容](https://codes2things.coding.net/p/file/d/file/git  '期末归档内容')**
 ## 由于github访问速度太慢，所以改为用coding.net提交期末归档，见谅！谢谢！
 
 <table><tr><td bgcolor=#FAEBD7>“整啥活”小组介绍：</td></tr></table>
