@@ -13,6 +13,8 @@
 
 **点击文字将跳转到[3dprinting-laser作业](https://zaowu.fun/p/607c5e82234c46320e6d3542 '3dprinting-laser作业')**
 
+**点击文字将跳转到[大作业——“多喝热水”提醒器](https://zaowu.fun/p/60d01df0234c46320e6d3f79 '大作业——“多喝热水”提醒器')**
+
 大家试着做出好玩的东西吧
 
 test！  
